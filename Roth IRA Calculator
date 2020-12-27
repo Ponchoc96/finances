@@ -1,3 +1,5 @@
+#Calculator that computes the returns of an investment for retirement#
+
 import matplotlib.pyplot as plt
 
 ans = 'yes'
